@@ -1,0 +1,14 @@
+{
+    "global_config": {
+        "audio_folder": "/home/toshiba/Music/",
+        "enable_logging": true
+    },
+    "tags": {
+        "2": {
+            "folder": "Stray Kids/NOEASY/"
+        },
+        "1": {
+            "folder": "Stray Kids/NOEASY/"
+        }
+    }
+}
